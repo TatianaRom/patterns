@@ -2,7 +2,7 @@
 
 Форма регистрации, содержащая валидацию
 
-Демо версия: https://github.com/TatianaRom/patterns
+Демо версия: https://stasbasov.github.io/form/
 
 Инструкция по установке проекта:
 
